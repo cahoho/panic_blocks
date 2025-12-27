@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3337491766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c90fdd15ef152f251c214962faa716f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a8302990f9e65e76b60cf9c7e93f8192
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c90fdd15ef152f251c214962faa716f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc83b88ad51814c47909b7968804ab34, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Dead/Idle 1.prefab
+- Assets/Prefabs/Dead/Idle.prefab
+- Assets/Prefabs/Dead/Blink (54x52)_0.prefab
+- Assets/Prefabs/Dead/Saw.prefab
+Dependencies: []
