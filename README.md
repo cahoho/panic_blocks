@@ -5,7 +5,7 @@
 
 **此为获奖项目。为方便广大技术爱好者学习研究，现进行开源。**
 
-> [English Document](https://github.com/cahoho/panic_blocks/blob/main/README_en.md) |[立即体验！](https://cahoho.github.io/panic_blocks/)  
+> [English Document](https://github.com/cahoho/panic_blocks/blob/main/README_en.md) | [立即体验！](https://cahoho.github.io/panic_blocks/)  
 
 ## 🏆 关于此项目
 
