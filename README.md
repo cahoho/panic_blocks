@@ -24,17 +24,17 @@
 
 ## ✨ 核心技术实现
 
-- **多玩家输入系统：**该系统由一个中央输入监听模块[PlayerManager.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/PlayerManager.cs)和一个角色行为解析器[Player.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/Player.cs)共同构成。当玩家按下任何一个控制键[LP_Controller.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/LP_Controller)或者[JP_Controller.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/JP_Controller)时，输入系统会立刻捕获该指令。随后，系统不会去寻找某个特定的主角，而是将这个指令作为一个全局事件，向当前关卡中所有需要被控制的角色进行事件广播。每个角色都内置了一个独立的行为解析器。它们在接收到同一指令后，会依据自身预设的逻辑规则来执行动作。<br>
+-  **多玩家输入系统：**该系统由一个中央输入监听模块[PlayerManager.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/PlayerManager.cs)和一个角色行为解析器[Player.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/Player.cs)共同构成。当玩家按下任何一个控制键[LP_Controller.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/LP_Controller)或者[JP_Controller.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/JP_Controller)时，输入系统会立刻捕获该指令。随后，系统不会去寻找某个特定的主角，而是将这个指令作为一个全局事件，向当前关卡中所有需要被控制的角色进行事件广播。每个角色都内置了一个独立的行为解析器。它们在接收到同一指令后，会依据自身预设的逻辑规则来执行动作。<br>
 
-- **夺旗胜利机制：**旗帜数量不仅有一个。因此夺旗机制同样采用了与多玩家输入系统类似的中央监听[FlagManager.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/FlagManager.cs)+分发解析的技术组合。<br>
-- **CDN资源加载：**资源加载机制实现了 AssetBundle 动态加载、本地与远程资源支持、异步加载、CDN 加载等功能。<br>
+-  **夺旗胜利机制：**旗帜数量不仅有一个。因此夺旗机制同样采用了与多玩家输入系统类似的中央监听[FlagManager.cs](https://github.com/cahoho/panic_blocks/blob/main/Assets/Scripts/FlagManager.cs)+分发解析的技术组合。<br>
+-  **CDN资源加载：**资源加载机制实现了 AssetBundle 动态加载、本地与远程资源支持、异步加载、CDN 加载等功能。<br>
 
 ## 🎮 核心玩法创意
 
-- **多玩家输入系统：**摒弃了传统平台跳跃游戏中“一对一”的控制模式，转而采用了一套高度统一的“一对多指令分发系统”。这套系统是本作创新玩法的基石，它将简单的玩家输入转化为复杂的游戏内行为，从而创造出独特而富有挑战性的游戏体验。
-- **切换地层系统：**此系统允许玩家在特定关卡中，通过特定按键，瞬间改变整个场景的地层结构。谜题的解决方案从“在静态环境中寻找唯一路径”转变为“通过改变环境本身来创造路径”。玩家必须同时思考“当前地图”与“切换后地图”两种状态下的通关路径，并规划出能让所有角色安全抵达终点的最佳切换时机与顺序。
+-  **多玩家输入系统：**摒弃了传统平台跳跃游戏中“一对一”的控制模式，转而采用了一套高度统一的“一对多指令分发系统”。这套系统是本作创新玩法的基石，它将简单的玩家输入转化为复杂的游戏内行为，从而创造出独特而富有挑战性的游戏体验。
+-  **切换地层系统：**此系统允许玩家在特定关卡中，通过特定按键，瞬间改变整个场景的地层结构。谜题的解决方案从“在静态环境中寻找唯一路径”转变为“通过改变环境本身来创造路径”。玩家必须同时思考“当前地图”与“切换后地图”两种状态下的通关路径，并规划出能让所有角色安全抵达终点的最佳切换时机与顺序。
 
-- **丰富的高难度地图：**地图设计是该游戏玩法的核心。优秀的地图促使了游戏玩法上升了更高的高度。<br>
+-  **丰富的高难度地图：**地图设计是该游戏玩法的核心。优秀的地图促使了游戏玩法上升了更高的高度。<br>
 
 ## 😊关于作者
 
