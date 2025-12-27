@@ -11,7 +11,7 @@
 
 *Note: This project was developed using Unity China's Tuanjie Engine, version **Tuanjie1.6.6**. The project can be opened using **Unity 2022 LTS**.*<br>
 
-This project contains the source code for the game **Panic Blocks**. This work received the **Best Gameplay Creativity Award** in the Mini-Game Track of the Game Development category at the **Unity China 2025 Developer Challenge**.<br>
+This project contains the source code for the game **Panic Blocks**. This work received the **Best Gameplay Creativity Award** in the Mini-Game Track of the Game Development category at the **Unity China 2025 Developer Challenge**.You can see the report here. [2025 Unity China Development Competition](https://mp.weixin.qq.com/s/GvalmJ70C7Z1Ps1GMt7LBg) <br>
 
 Panic Blocks is a unique parkour puzzle game that blends various interesting game mechanics. You control different characters simultaneously using the same set of keys, with each character responding differently to your commands. Coordinate all the blocks amidst the frantic operation to capture all the flags on the field and achieve victory. The recommended age for Panic Blocks is 8+. The target audience for this game is players seeking small-sized, fast-loading, highly satisfying, and fun games. It's designed for players who enjoy solving problems with their minds, building thinking skills, and engaging in unique and interesting puzzles.<br>
 
