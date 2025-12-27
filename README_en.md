@@ -5,7 +5,7 @@
 
 **This is an award-winning project. It is now open-sourced for the convenience of technology enthusiasts to study and research.**
 
-> [中文文档](https://github.com/cahoho/panic_blocks/blob/main/README.md)
+> [中文文档](https://github.com/cahoho/panic_blocks/blob/main/README.md) | [TRY NOW!](https://cahoho.github.io/panic_blocks/)  
 
 ## 🏆 About This Project
 
