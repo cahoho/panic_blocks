@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MoveZone
+  - PauseUI
+  - FadeUI
+  - SettingsUI
+  - svs
+  - mvs
+  - RotatingPlatform
+  - Blue
+  - Brown
+  - Frog
+  - Rabbit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - background
+  - platform
+  - Dead
+  - Player
+  - Win
+  - 
+  - 
+  - PauseUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2742481951
+    locked: 0
+  - name: platform
+    uniqueID: 3520547275
+    locked: 0
+  - name: player
+    uniqueID: 1218503917
+    locked: 0
+  - name: spikes
+    uniqueID: 1755340443
+    locked: 0
+  - name: UI
+    uniqueID: 3732890601
+    locked: 0

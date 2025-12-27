@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 849007907
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blink
+      Dependencies: {}
+    Info_1:
+      Name: player
+      Dependencies: {}
+    Info_2:
+      Name: flag
+      Dependencies: {}
+    Info_3:
+      Name: ui
+      Dependencies: {}

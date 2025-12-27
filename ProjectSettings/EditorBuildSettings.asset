@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.scene
+    guid: 4a48aba316b715441995070b51658aee
+  - enabled: 1
+    path: Assets/Scenes/Level_Choose.scene
+    guid: 7cce5ecc430c1cb4380d069f3818df1c
+  - enabled: 1
+    path: Assets/Scenes/Level_01.scene
+    guid: c1dbcc35ae2e81b48b7409f93e9c6bf6
+  - enabled: 1
+    path: Assets/Scenes/Level_02.scene
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level_03.scene
+    guid: fb3044b8378542242ae0ef5bf62a8a29
+  - enabled: 1
+    path: Assets/Scenes/Level_04.scene
+    guid: 345cea30fb8095f4985c1f25311bd28c
+  - enabled: 1
+    path: Assets/Scenes/Level_05.scene
+    guid: 24f1e2f4d1e7c164a81b81faf66c36cc
+  - enabled: 1
+    path: Assets/Scenes/Level_06.scene
+    guid: d8d0d79a5aa30754aaeb0f2f2e350332
+  - enabled: 1
+    path: Assets/Scenes/Level_07.scene
+    guid: bb6bad47b74ec32488df743ea0fbc07e
+  - enabled: 1
+    path: Assets/Scenes/Level_08.scene
+    guid: 79d5a5b4665863540871bf4f6b92397a
+  - enabled: 1
+    path: Assets/Scenes/Level_09.scene
+    guid: cef475c71746c9f4fa6be4375f65c98d
+  - enabled: 1
+    path: Assets/Scenes/Level_10.scene
+    guid: eb94989a56e7cc64b85a42c72243c6d7
+  - enabled: 1
+    path: Assets/Scenes/Level_11.scene
+    guid: 4b7e0bcbd9493a24d80e704ccb05709d
+  - enabled: 1
+    path: Assets/Scenes/Level_12.scene
+    guid: 19d6fd71ffcdb954d90dcc150fb999a2
+  - enabled: 1
+    path: Assets/Scenes/Level_13.scene
+    guid: a9a330d612322b74aaca1e5105bc3b83
+  - enabled: 1
+    path: Assets/Scenes/Level_14.scene
+    guid: 295ed68ee93f0734d9a430cd10298b92
+  - enabled: 1
+    path: Assets/Scenes/Level_15.scene
+    guid: 9e495b77d6c3fcf4cb82b3eee646bfe0
+  - enabled: 1
+    path: Assets/Scenes/Level_16.scene
+    guid: 81543edd7d22be84583adb5a20bd5c84
+  m_BuildProfiles:
+  - enabled: 0
+    path: Assets/Settings/Build Profiles/New MiniHost Profile.asset
+    guid: 4786c2b60cddde443937e4063f7b92cc
+  - enabled: 1
+    path: Assets/Settings/Build Profiles/New WeChat Profile.asset
+    guid: 78f81fb28af1ded488961500e7826c5f
+  m_configObjects: {}
+  m_SlimFeaturesWeixinMiniGame:
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 1
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
+    UseStringInternPool: 2

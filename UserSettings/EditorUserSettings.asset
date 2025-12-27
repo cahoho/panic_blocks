@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    ASUOSHelper.PreviousSelectedBuildProfileIndex:
+      value: 52
+      flags: 0
+    ASUOSHelper.SelectedBuildProfileGuid:
+      value: 57060c5006070b0d5d0d082614260b44454e4b7d297c76667e2f4a31bbb2373b
+      flags: 0
+    ASUOSHelper.SelectedBuildProfileIndex:
+      value: 52
+      flags: 0
+    RecentlyUsedSceneGuid-0:
+      value: 5b00015256500d5f5a0a5e7012260744434f4b2b282a73317f791f37b7e36c6c
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5a54005f50575e0c09580f7116205944151540782e7b2335287f4965e0e63168
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 510801030103515e08575f2440740c44124e197e7f7825347c794f6abae26d6a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 0208555556050d0d5c5c5f704221084417161b2b7d2d73617d7c1f30b1e26c6b
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5408505304000b0f5b58597a46700a44464f4f7b2e2e72367b2b4461b1b96339
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5105525700070f0f095f097513720944174f4928747920312b7f4b30b1b6373b
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5005010500545a0b0b0c5472497659444f4f4d297d2e74657e784c31e6b26c3b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 0000500406565a0e0c0b5e2748725d444e154f7e7c7120697e2c4430b4e2326e
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5750005e045708085c580e7541760b44474e417f7c7f763278784b66bae1313d
+      flags: 0
+    UOSConfig.BadgeName:
+      value: 0f5040031641
+      flags: 0
+    UOSConfig.BucketName:
+      value: 115447
+      flags: 0
+    UOSConfig.BucketUuid:
+      value: 5a0503575303585d40080f72476e0b114347552b7d78257d7b7e4461e4b16468e1b26fe8
+      flags: 0
+    UOSConfig.UosAppId:
+      value: 06530d5e52070b0a40565b73416e0b154f47552b287a727d2c7a4c36b1b2376ab0b56eb9
+      flags: 0
+    UOSConfig.UosAppSecret:
+      value: 0208050003065e5a54565f72447407404f424d2e7e7073612b7c1960b6b0316e
+      flags: 0
+    UnityEditor.ShaderGraph.Blackboard:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd2e2d293c4ead313b08042de6030a0afa240c0d020be94c4ba75e435d8715fa32c70d15d11612dacc11fee5d3c5d1fe9ab1bf968e93e2ffcbc3e7e2f0b3ffe0e8b0be9af8ffaeffff8e85dd8390e3949c8899daa7
+      flags: 0
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649500d1002ee0b5dbd1d2c27c00ad113cb1e10e41f1addc80993b98d9884a69ae6d8f0d1cda9e8fbfefaf9f9dea3fdb9ade882f0f7b0e1e380cafbf2c3adc18e9cd285a2908b82ec879c8b8986d58281df8a8388dff5c1e089e5fec2f3f0d8cdf5c9fbc9c6c4e038e2fd357b7a75
+      flags: 0
+    UnityEditor.ShaderGraph.InspectorWindow:
+      value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a5602b2e2c07a37e0901373ae01e0008f707250d171df81a53a5405d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd88908fecb0f9cfddf1eff4e7a1b1eae482f0fcaee1e1928b86d888ed969b938795ea828182ec8182848985d4848e9ac5
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 6
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1

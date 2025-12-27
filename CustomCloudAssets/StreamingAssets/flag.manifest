@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 918812970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c6dcb5de44430013fee821b5d27e7a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e425da7ffbca779192f47377e1a49af
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c6dcb5de44430013fee821b5d27e7a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9511d82ecd252664f976892954a93303, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Flag.prefab
+Dependencies: []
